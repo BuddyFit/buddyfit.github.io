@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://blog.buddyfit.fr/sitemap.xml
+Disallow: /ghost/
